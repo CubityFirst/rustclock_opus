@@ -26,7 +26,7 @@ cargo run --release  # optimized; no console window on Windows
 
 ```sh
 cargo build --release
-# binary at target/release/rustclock(.exe)
+# binary at target/release/rustclock_opus(.exe)
 ```
 
 ## License
